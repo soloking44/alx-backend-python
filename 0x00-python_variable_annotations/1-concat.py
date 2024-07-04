@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""It ontains a process that concatenates two string values."""
+"""It contains a process that concatenates two string values."""
 
 
 def concat(str1: str, str2: str) -> str:
